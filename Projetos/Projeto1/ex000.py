@@ -1,0 +1,6 @@
+Nome = input('qual é o seu nome? ')
+print('É um grande prazer te conhecer',Nome+'.')
+Peso = input(Nome+'qual o seu peso?')
+print(Nome,'Você tem',Peso,'Kilos.')
+PesoMeta = input('Você gostaria de pesar quantos kilos?')
+print('O',Nome,'atualmente tem',Peso,'kilos e gostaria de pesar',PesoMeta,'.')
